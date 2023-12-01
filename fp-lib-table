@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "32blit")(type "KiCad")(uri "$(KIPRJMOD)/32blit.pretty")(options "")(descr ""))
+)
