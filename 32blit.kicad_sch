@@ -8,6 +8,11 @@
   )
 
 
+  (bus_entry (at 86.36 107.95) (size 2.54 2.54)
+    (stroke (width 0) (type default))
+    (uuid c8859d60-b940-4de1-b0e1-11ce70d63f80)
+  )
+
   (sheet (at 76.2 25.4) (size 12.7 3.81) (fields_autoplaced)
     (stroke (width 0) (type solid))
     (fill (color 0 0 0 0.0000))
