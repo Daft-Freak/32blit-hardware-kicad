@@ -3697,6 +3697,14 @@
         )
         (polyline
           (pts
+            (xy 11.2307 8.4332)
+            (xy 11.2305 8.4335)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 11.2305 8.4335)
             (xy 11.2303 8.4339)
           )
@@ -3713,16 +3721,16 @@
         )
         (polyline
           (pts
+            (xy 11.231 8.4329)
             (xy 11.2307 8.4332)
-            (xy 11.2305 8.4335)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
         )
         (polyline
           (pts
-            (xy 11.231 8.4329)
-            (xy 11.2307 8.4332)
+            (xy 11.2317 8.4318)
+            (xy 11.2315 8.4322)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -3739,14 +3747,6 @@
           (pts
             (xy 11.2319 8.4315)
             (xy 11.2317 8.4318)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 11.2317 8.4318)
-            (xy 11.2315 8.4322)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12017,22 +12017,6 @@
         )
         (polyline
           (pts
-            (xy 33.9112 8.5802)
-            (xy 33.9111 8.5801)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9113 8.5802)
-            (xy 33.9112 8.5802)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 33.9111 8.5801)
             (xy 33.911 8.5801)
           )
@@ -12041,16 +12025,24 @@
         )
         (polyline
           (pts
-            (xy 33.9115 8.5803)
-            (xy 33.9114 8.5803)
+            (xy 33.9113 8.5802)
+            (xy 33.9112 8.5802)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
         )
         (polyline
           (pts
-            (xy 33.9116 8.5803)
+            (xy 33.9112 8.5802)
+            (xy 33.9111 8.5801)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 33.9115 8.5803)
+            (xy 33.9114 8.5803)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12073,6 +12065,30 @@
         )
         (polyline
           (pts
+            (xy 33.9119 8.5805)
+            (xy 33.9118 8.5805)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9118 8.5805)
+            (xy 33.9117 8.5804)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9117 8.5804)
+            (xy 33.9116 8.5804)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 33.9116 8.5804)
             (xy 33.9116 8.5803)
           )
@@ -12081,16 +12097,8 @@
         )
         (polyline
           (pts
-            (xy 33.9117 8.5804)
-            (xy 33.9116 8.5804)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.912 8.5806)
-            (xy 33.9119 8.5806)
+            (xy 33.9116 8.5803)
+            (xy 33.9115 8.5803)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12099,22 +12107,6 @@
           (pts
             (xy 33.9119 8.5806)
             (xy 33.9119 8.5805)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9118 8.5805)
-            (xy 33.9117 8.5804)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9119 8.5805)
-            (xy 33.9118 8.5805)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12131,6 +12123,14 @@
           (pts
             (xy 33.9122 8.5807)
             (xy 33.9121 8.5807)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.912 8.5806)
+            (xy 33.9119 8.5806)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12147,6 +12147,14 @@
           (pts
             (xy 33.9121 8.5806)
             (xy 33.912 8.5806)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9126 8.5809)
+            (xy 33.9125 8.5809)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12155,6 +12163,22 @@
           (pts
             (xy 33.9124 8.5808)
             (xy 33.9123 8.5808)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9127 8.581)
+            (xy 33.9126 8.581)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9126 8.581)
+            (xy 33.9126 8.5809)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12171,30 +12195,6 @@
           (pts
             (xy 33.9128 8.5811)
             (xy 33.9127 8.581)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9126 8.581)
-            (xy 33.9126 8.5809)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9126 8.5809)
-            (xy 33.9125 8.5809)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9127 8.581)
-            (xy 33.9126 8.581)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12281,6 +12281,14 @@
         )
         (polyline
           (pts
+            (xy 33.9138 8.5817)
+            (xy 33.9137 8.5816)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 33.9136 8.5816)
             (xy 33.9136 8.5815)
           )
@@ -12305,32 +12313,16 @@
         )
         (polyline
           (pts
+            (xy 33.9141 8.5818)
+            (xy 33.914 8.5818)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 33.914 8.5818)
             (xy 33.9139 8.5817)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9138 8.5817)
-            (xy 33.9137 8.5816)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9141 8.5818)
-            (xy 33.914 8.5818)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9142 8.5819)
-            (xy 33.9141 8.5818)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12347,6 +12339,14 @@
           (pts
             (xy 33.9143 8.582)
             (xy 33.9143 8.5819)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9142 8.5819)
+            (xy 33.9141 8.5818)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12497,22 +12497,6 @@
         )
         (polyline
           (pts
-            (xy 33.9645 8.6074)
-            (xy 33.9644 8.6074)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9645 8.6075)
-            (xy 33.9645 8.6074)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 33.9644 8.6074)
             (xy 33.9643 8.6074)
           )
@@ -12521,16 +12505,24 @@
         )
         (polyline
           (pts
-            (xy 33.9647 8.6075)
-            (xy 33.9646 8.6075)
+            (xy 33.9645 8.6075)
+            (xy 33.9645 8.6074)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
         )
         (polyline
           (pts
+            (xy 33.9645 8.6074)
+            (xy 33.9644 8.6074)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9648 8.6076)
             (xy 33.9647 8.6076)
-            (xy 33.9647 8.6075)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12545,16 +12537,24 @@
         )
         (polyline
           (pts
-            (xy 33.9649 8.6076)
-            (xy 33.9648 8.6076)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9648 8.6076)
             (xy 33.9647 8.6076)
+            (xy 33.9647 8.6075)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9649 8.6076)
+            (xy 33.9648 8.6076)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9647 8.6075)
+            (xy 33.9646 8.6075)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12601,14 +12601,6 @@
         )
         (polyline
           (pts
-            (xy 33.9657 8.6079)
-            (xy 33.9656 8.6079)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 33.9655 8.6078)
             (xy 33.9654 8.6078)
           )
@@ -12625,16 +12617,32 @@
         )
         (polyline
           (pts
-            (xy 33.9657 8.608)
-            (xy 33.9657 8.6079)
+            (xy 33.9656 8.6079)
+            (xy 33.9655 8.6078)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
         )
         (polyline
           (pts
+            (xy 33.9657 8.6079)
             (xy 33.9656 8.6079)
-            (xy 33.9655 8.6078)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.966 8.6081)
+            (xy 33.9659 8.6081)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9659 8.6081)
+            (xy 33.9659 8.608)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12649,16 +12657,8 @@
         )
         (polyline
           (pts
-            (xy 33.9659 8.6081)
-            (xy 33.9659 8.608)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.966 8.6081)
-            (xy 33.9659 8.6081)
+            (xy 33.9657 8.608)
+            (xy 33.9657 8.6079)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12667,22 +12667,6 @@
           (pts
             (xy 33.9661 8.6081)
             (xy 33.966 8.6081)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9665 8.6083)
-            (xy 33.9664 8.6083)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9664 8.6082)
-            (xy 33.9663 8.6082)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12705,8 +12689,8 @@
         )
         (polyline
           (pts
-            (xy 33.9666 8.6084)
-            (xy 33.9665 8.6083)
+            (xy 33.9664 8.6082)
+            (xy 33.9663 8.6082)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12715,6 +12699,22 @@
           (pts
             (xy 33.9664 8.6083)
             (xy 33.9664 8.6082)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9665 8.6083)
+            (xy 33.9664 8.6083)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9668 8.6084)
+            (xy 33.9667 8.6084)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12723,6 +12723,14 @@
           (pts
             (xy 33.9667 8.6084)
             (xy 33.9666 8.6084)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9666 8.6084)
+            (xy 33.9665 8.6083)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12739,14 +12747,6 @@
           (pts
             (xy 33.9668 8.6085)
             (xy 33.9668 8.6084)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 33.9668 8.6084)
-            (xy 33.9667 8.6084)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12785,14 +12785,6 @@
         )
         (polyline
           (pts
-            (xy 33.9675 8.6087)
-            (xy 33.9674 8.6087)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 33.9674 8.6087)
             (xy 33.9673 8.6087)
           )
@@ -12825,8 +12817,8 @@
         )
         (polyline
           (pts
-            (xy 33.9678 8.6089)
-            (xy 33.9677 8.6088)
+            (xy 33.9675 8.6087)
+            (xy 33.9674 8.6087)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -12835,6 +12827,14 @@
           (pts
             (xy 33.9679 8.6089)
             (xy 33.9678 8.6089)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 33.9678 8.6089)
+            (xy 33.9677 8.6088)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -13025,14 +13025,6 @@
         )
         (polyline
           (pts
-            (xy 34.0714 8.6399)
-            (xy 34.0713 8.6399)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 34.0712 8.6399)
             (xy 34.0711 8.6399)
           )
@@ -13041,8 +13033,32 @@
         )
         (polyline
           (pts
+            (xy 34.0715 8.6399)
+            (xy 34.0714 8.6399)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 34.0713 8.6399)
             (xy 34.0712 8.6399)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 34.0716 8.6399)
+            (xy 34.0715 8.6399)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 34.0714 8.6399)
+            (xy 34.0713 8.6399)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -13059,22 +13075,6 @@
           (pts
             (xy 34.0716 8.64)
             (xy 34.0716 8.6399)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 34.0716 8.6399)
-            (xy 34.0715 8.6399)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 34.0715 8.6399)
-            (xy 34.0714 8.6399)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -13809,16 +13809,16 @@
         )
         (polyline
           (pts
+            (xy 34.5364 8.4631)
             (xy 34.5363 8.4633)
-            (xy 34.5361 8.4635)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
         )
         (polyline
           (pts
-            (xy 34.5364 8.4631)
             (xy 34.5363 8.4633)
+            (xy 34.5361 8.4635)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -13835,14 +13835,6 @@
           (pts
             (xy 34.5369 8.4626)
             (xy 34.5366 8.4629)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 34.5372 8.4622)
-            (xy 34.5371 8.4624)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -13859,6 +13851,14 @@
           (pts
             (xy 34.5374 8.462)
             (xy 34.5372 8.4622)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 34.5372 8.4622)
+            (xy 34.5371 8.4624)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -14425,14 +14425,6 @@
         )
         (polyline
           (pts
-            (xy 37.4498 3.2837)
-            (xy 37.4498 3.2836)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 37.4496 3.284)
             (xy 37.4496 3.2839)
           )
@@ -14449,8 +14441,8 @@
         )
         (polyline
           (pts
-            (xy 37.4501 3.2834)
-            (xy 37.4502 3.2833)
+            (xy 37.4499 3.2836)
+            (xy 37.45 3.2835)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -14465,8 +14457,16 @@
         )
         (polyline
           (pts
-            (xy 37.4499 3.2836)
-            (xy 37.45 3.2835)
+            (xy 37.4498 3.2837)
+            (xy 37.4498 3.2836)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 37.4501 3.2834)
+            (xy 37.4502 3.2833)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -16217,6 +16217,14 @@
         )
         (polyline
           (pts
+            (xy 38.319 3.6058)
+            (xy 38.319 3.6059)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
             (xy 38.319 3.6057)
             (xy 38.319 3.6058)
           )
@@ -16227,14 +16235,6 @@
           (pts
             (xy 38.319 3.6059)
             (xy 38.319 3.6061)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 38.319 3.6058)
-            (xy 38.319 3.6059)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -18201,14 +18201,6 @@
         )
         (polyline
           (pts
-            (xy 50.728 10.7776)
-            (xy 50.7309 10.7407)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 50.7283 9.6558)
             (xy 50.7269 9.6631)
           )
@@ -18227,6 +18219,14 @@
           (pts
             (xy 50.7281 10.7776)
             (xy 50.7232 10.8128)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 50.728 10.7776)
+            (xy 50.7309 10.7407)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -22049,22 +22049,6 @@
         )
         (polyline
           (pts
-            (xy 138.4063 10.6655)
-            (xy 138.4006 10.6287)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
-            (xy 138.4061 10.7776)
-            (xy 138.4013 10.8128)
-          )
-          (stroke (width 0.025) (type solid))
-          (fill (type none))
-        )
-        (polyline
-          (pts
             (xy 138.406 10.7776)
             (xy 138.4089 10.7407)
           )
@@ -22075,6 +22059,22 @@
           (pts
             (xy 138.4064 9.6558)
             (xy 138.405 9.6631)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 138.4063 10.6655)
+            (xy 138.4006 10.6287)
+          )
+          (stroke (width 0.025) (type solid))
+          (fill (type none))
+        )
+        (polyline
+          (pts
+            (xy 138.4061 10.7776)
+            (xy 138.4013 10.8128)
           )
           (stroke (width 0.025) (type solid))
           (fill (type none))
@@ -25246,7 +25246,7 @@
         (effects (font (size 1.27 1.27)))
       )
       (symbol "SOLDERJUMPER_1_0"
-        (arc (start -0.381 -0.635) (mid 0.2541 -0.0001) (end -0.3808 0.635)
+        (arc (start -0.381 -0.635) (mid 0.2514 -0.0001) (end -0.3808 0.635)
           (stroke (width 1.27) (type solid))
           (fill (type none))
         )
@@ -26155,15 +26155,15 @@
   )
 
   (text "DB0 6" (at 67.31 147.32 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 05a3c4af-241d-406d-bbfc-fcc7b49bcfd1)
   )
   (text "15" (at 67.31 124.46 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 0df79241-25ac-4994-b6c1-6f496f6d8c1c)
   )
   (text "33" (at 67.31 78.74 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 11006116-abb2-4f32-bf44-d13999d3e668)
   )
   (text "Max input current = (1V/Rilim) * 435\n390R results in a 1.1A max input current.\n1.1A/3.7V*5V*0.9A-0.2A = average charge current would be 1.1A"
@@ -26172,31 +26172,31 @@
     (uuid 194a8645-b863-4966-beac-d3087d28bc7d)
   )
   (text "DB23 29" (at 67.31 88.9 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 1b4735bd-ef98-49de-8354-97c79f967b46)
   )
   (text "26" (at 67.31 96.52 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 22e8bdf1-0f73-4dd6-9506-f03135279194)
   )
   (text "32" (at 67.31 81.28 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 308b1991-0f39-4e4e-8da7-43bfb9ba1c62)
   )
   (text "21" (at 67.31 109.22 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 343ecb64-c1d7-4256-9b57-c9b96bc22ec3)
   )
   (text "37" (at 67.31 68.58 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 3454ec52-90e5-4571-9aea-5efb79b7e859)
   )
   (text "30" (at 67.31 86.36 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 34bb788d-a415-4332-a460-7c87286de20b)
   )
   (text "1" (at 67.31 160.02 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 3d43221d-9bd3-4622-a388-b594b3476a41)
   )
   (text "Battery Charger and Power Path Management\nUSB and Lipo connectors"
@@ -26205,11 +26205,11 @@
     (uuid 4dbaaba8-cafa-4265-8a70-1e8811298d69)
   )
   (text "5" (at 67.31 149.86 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 514661b2-9934-4b34-9312-664b33c138c8)
   )
   (text "36" (at 67.31 71.12 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 60452f9a-c646-4006-99d4-22d10bfdfff3)
   )
   (text "Driver: ST7272A\nBacklight: 6S1P, 19.2V, 15mA typ" (at 30.48 40.64 0)
@@ -26217,27 +26217,27 @@
     (uuid 65e8eebe-0e9c-4351-81f2-a056c1788f87)
   )
   (text "14" (at 67.31 127 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 691e4e8c-3926-4ad6-a0bc-bbb619d4774d)
   )
   (text "25" (at 67.31 99.06 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 71fb139b-c419-4b30-8a95-80872c45a6cf)
   )
   (text "35" (at 67.31 73.66 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 74d8c842-bf41-4bd6-9d04-c915cd723186)
   )
   (text "40" (at 67.31 60.96 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 75c27ed7-cf98-4169-a8d4-58f9bc13ecf9)
   )
   (text "8" (at 67.31 142.24 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 7d4da969-1bf3-457f-9a63-44e5a4b5c5f6)
   )
   (text "2" (at 67.31 157.48 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 82210edb-03f5-42f6-8405-6bb7b408cb88)
   )
   (text "3.5\" LCD backlight driver" (at 109.22 190.5 0)
@@ -26245,23 +26245,23 @@
     (uuid 83131ed5-6c07-40b7-ab29-95d7c395c084)
   )
   (text "34" (at 67.31 76.2 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 852f974b-9471-4da9-b5d6-4aee0f354841)
   )
   (text "24" (at 67.31 101.6 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 85e3fb8f-3ab1-484e-86a7-ee45da9276c5)
   )
   (text "12" (at 67.31 132.08 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 888dfbc5-0099-41ac-b1bf-1996141be15a)
   )
   (text "9" (at 67.31 139.7 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 8a776113-ceae-400d-b67b-1df2b129149f)
   )
   (text "39" (at 67.31 63.5 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 8db4d579-3edf-47cb-b571-4499410e1b2c)
   )
   (text "typ 15mA, typ 19.2V\n0.2V / 0.0146A = 13.7 ohm\nResistor power: 0.2V*0.015A = 3mW"
@@ -26270,71 +26270,71 @@
     (uuid 8f441e12-d152-4fed-b25a-803598ba2115)
   )
   (text "13" (at 67.31 129.54 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 8fa0e8a2-02b4-4cae-bc92-14d520998850)
   )
   (text "20" (at 67.31 111.76 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 92ee8db5-008e-461d-a207-5f80931e8d42)
   )
   (text "18" (at 67.31 116.84 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 931088dc-8350-4d3e-87d5-250ee604f9c7)
   )
   (text "22" (at 67.31 106.68 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 99f80b60-d4d6-40be-8945-fbdde3bd208a)
   )
   (text "31" (at 67.31 83.82 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid 9d5ef926-6ea0-435d-bb19-7beeecd3814c)
   )
   (text "27" (at 67.31 93.98 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid a2d87e94-2622-462a-b96c-f227d0471a7d)
   )
   (text "28" (at 67.31 91.44 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid a356e135-50b9-4976-9db1-37806922715e)
   )
   (text "11" (at 67.31 134.62 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid b2907dc6-a291-4474-b844-9355d20e140c)
   )
   (text "23" (at 67.31 104.14 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid b72517e1-a3ff-43c5-ae06-742c91d433cd)
   )
   (text "10" (at 67.31 137.16 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid b9b45709-dd56-46d7-a031-88557e41305f)
   )
   (text "4" (at 67.31 152.4 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid c09ed7e1-4162-49a1-a232-cfe23e468929)
   )
   (text "3" (at 67.31 154.94 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid d307d5a4-8c63-4ed6-86bb-98cd45bc2273)
   )
   (text "38" (at 67.31 66.04 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid dd32ec5e-7369-4159-b47d-00cbd1932e1a)
   )
   (text "17" (at 67.31 119.38 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid e94a91d5-2a8b-470a-aefe-0d3b562aa143)
   )
   (text "7" (at 67.31 144.78 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid efceb577-4d9c-43e2-ac2f-16f9d76dbc32)
   )
   (text "16" (at 67.31 121.92 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid f3f4184d-ad73-4295-a19a-262fa968787f)
   )
   (text "19" (at 67.31 114.3 0)
-    (effects (font (size 1.778 1.5113)) (justify right))
+    (effects (font (size 1.778 1.5113)) (justify right bottom))
     (uuid fd1880ac-0c55-410e-a954-e010a23c57f4)
   )
   (text "3.5\" LCD connector" (at 60.96 35.56 0)
@@ -26775,7 +26775,7 @@
     (property "Value" "1k" (at 232.41 81.28 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 231.14 81.28 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 231.14 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 231.14 81.28 0)
@@ -26795,7 +26795,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 281.94 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 011274fe-c182-450c-a97e-d05b4df5fa69)
-    (property "Reference" "#GND38" (at 281.94 177.8 0)
+    (property "Reference" "#GND038" (at 281.94 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 279.4 180.34 0)
@@ -26811,7 +26811,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND38") (unit 1)
+          (reference "#GND038") (unit 1)
         )
       )
     )
@@ -26826,7 +26826,7 @@
     (property "Value" "10uF" (at 336.804 210.439 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 335.28 205.74 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 335.28 205.74 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 335.28 205.74 0)
@@ -26878,7 +26878,7 @@
     (property "Value" "39k" (at 364.49 228.6 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 363.22 228.6 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 363.22 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 363.22 228.6 0)
@@ -26930,7 +26930,7 @@
     (property "Value" "10uF" (at 369.824 172.339 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 368.3 167.64 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 368.3 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 368.3 167.64 0)
@@ -26956,7 +26956,7 @@
     (property "Value" "1uF 25V" (at 153.924 228.219 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0603" (at 152.4 223.52 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 152.4 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 152.4 223.52 0)
@@ -26976,7 +26976,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 363.22 238.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 173b0006-0c7d-4dd1-a621-86dee49e111d)
-    (property "Reference" "#GND47" (at 363.22 238.76 0)
+    (property "Reference" "#GND047" (at 363.22 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 360.68 241.3 0)
@@ -26992,7 +26992,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND47") (unit 1)
+          (reference "#GND047") (unit 1)
         )
       )
     )
@@ -27001,7 +27001,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 284.48 231.14 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 17a9514e-1911-433b-8d0e-bd59f7d750d2)
-    (property "Reference" "#GND40" (at 284.48 231.14 0)
+    (property "Reference" "#GND040" (at 284.48 231.14 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 281.94 233.68 0)
@@ -27017,7 +27017,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND40") (unit 1)
+          (reference "#GND040") (unit 1)
         )
       )
     )
@@ -27080,7 +27080,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 121.92 76.2 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 288d5591-ca71-4e44-8553-3472cf3bf0a7)
-    (property "Reference" "#GND30" (at 121.92 76.2 0)
+    (property "Reference" "#GND030" (at 121.92 76.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 119.38 78.74 0)
@@ -27096,7 +27096,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND30") (unit 1)
+          (reference "#GND030") (unit 1)
         )
       )
     )
@@ -27105,7 +27105,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 99.06 264.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 2c23f386-a254-4a6c-9043-3a786848ab73)
-    (property "Reference" "#GND34" (at 99.06 264.16 0)
+    (property "Reference" "#GND034" (at 99.06 264.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 96.52 266.7 0)
@@ -27121,7 +27121,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND34") (unit 1)
+          (reference "#GND034") (unit 1)
         )
       )
     )
@@ -27136,7 +27136,7 @@
     (property "Value" "10uF" (at 336.804 192.659 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 335.28 187.96 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 335.28 187.96 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 335.28 187.96 0)
@@ -27162,7 +27162,7 @@
     (property "Value" "100nF" (at 336.804 172.339 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0402K" (at 335.28 167.64 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 335.28 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 335.28 167.64 0)
@@ -27188,7 +27188,7 @@
     (property "Value" "1uF" (at 250.444 172.339 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0603" (at 248.92 167.64 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 248.92 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 248.92 167.64 0)
@@ -27214,7 +27214,7 @@
     (property "Value" "10uF" (at 283.464 174.879 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 281.94 170.18 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 281.94 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 281.94 170.18 0)
@@ -27240,7 +27240,7 @@
     (property "Value" "20K" (at 133.35 226.06 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 132.08 226.06 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 132.08 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 132.08 226.06 0)
@@ -27260,7 +27260,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 132.08 248.92 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 42686f56-dea7-43a6-a5bb-331228a653e3)
-    (property "Reference" "#GND37" (at 132.08 248.92 0)
+    (property "Reference" "#GND037" (at 132.08 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 129.54 251.46 0)
@@ -27276,7 +27276,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND37") (unit 1)
+          (reference "#GND037") (unit 1)
         )
       )
     )
@@ -27285,7 +27285,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 373.38 238.76 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 441dfe72-8ffa-4e9f-88d6-40e21fa83da3)
-    (property "Reference" "#GND48" (at 373.38 238.76 0)
+    (property "Reference" "#GND048" (at 373.38 238.76 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 370.84 241.3 0)
@@ -27301,7 +27301,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND48") (unit 1)
+          (reference "#GND048") (unit 1)
         )
       )
     )
@@ -27316,7 +27316,7 @@
     (property "Value" "1M" (at 359.41 124.46 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 360.68 124.46 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 360.68 124.46 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 360.68 124.46 0)
@@ -27342,7 +27342,7 @@
     (property "Value" "4k7" (at 364.49 203.2 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 363.22 203.2 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 363.22 203.2 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 363.22 203.2 0)
@@ -27394,7 +27394,7 @@
     (property "Value" "390R" (at 275.59 226.06 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 274.32 226.06 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 274.32 226.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 274.32 226.06 0)
@@ -27414,7 +27414,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 378.46 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 5645fe6b-e6f7-4e5b-b2ad-bd666f946038)
-    (property "Reference" "#GND44" (at 378.46 177.8 0)
+    (property "Reference" "#GND044" (at 378.46 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 375.92 180.34 0)
@@ -27430,7 +27430,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND44") (unit 1)
+          (reference "#GND044") (unit 1)
         )
       )
     )
@@ -27475,7 +27475,7 @@
     (property "Value" "1k" (at 238.76 69.85 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 238.76 68.58 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 238.76 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 238.76 68.58 0)
@@ -27495,7 +27495,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 335.28 195.58 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 66a097df-1507-43c2-a793-3402f62a6e77)
-    (property "Reference" "#GND45" (at 335.28 195.58 0)
+    (property "Reference" "#GND045" (at 335.28 195.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 332.74 198.12 0)
@@ -27511,7 +27511,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND45") (unit 1)
+          (reference "#GND045") (unit 1)
         )
       )
     )
@@ -27526,7 +27526,7 @@
     (property "Value" "13.7R" (at 115.57 248.92 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 114.3 248.92 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 114.3 248.92 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 114.3 248.92 0)
@@ -27601,7 +27601,7 @@
     (property "Value" "10uF" (at 275.844 174.879 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 274.32 170.18 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 274.32 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 274.32 170.18 0)
@@ -27621,7 +27621,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 335.28 213.36 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 818e2877-1405-41f7-9a46-62b0ac53dc03)
-    (property "Reference" "#GND46" (at 335.28 213.36 0)
+    (property "Reference" "#GND046" (at 335.28 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 332.74 215.9 0)
@@ -27637,7 +27637,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND46") (unit 1)
+          (reference "#GND046") (unit 1)
         )
       )
     )
@@ -27712,7 +27712,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 281.94 208.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 85655d50-77db-4a32-9f82-fcf7d6365964)
-    (property "Reference" "#GND53" (at 281.94 208.28 0)
+    (property "Reference" "#GND053" (at 281.94 208.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 279.4 210.82 0)
@@ -27728,7 +27728,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND53") (unit 1)
+          (reference "#GND053") (unit 1)
         )
       )
     )
@@ -27737,7 +27737,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 365.76 152.4 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 8ba69fdf-ad77-429a-8e6e-d202b5aed30d)
-    (property "Reference" "#GND21" (at 365.76 152.4 0)
+    (property "Reference" "#GND021" (at 365.76 152.4 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 363.22 154.94 0)
@@ -27753,7 +27753,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND21") (unit 1)
+          (reference "#GND021") (unit 1)
         )
       )
     )
@@ -27762,7 +27762,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 248.92 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9257e8f8-b2db-43dd-a975-40bdbcb13945)
-    (property "Reference" "#GND39" (at 248.92 177.8 0)
+    (property "Reference" "#GND039" (at 248.92 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 246.38 180.34 0)
@@ -27778,7 +27778,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND39") (unit 1)
+          (reference "#GND039") (unit 1)
         )
       )
     )
@@ -27787,7 +27787,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 109.22 170.18 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 932041ca-eb91-4d1c-af74-bc94a54c056b)
-    (property "Reference" "#GND15" (at 109.22 170.18 0)
+    (property "Reference" "#GND015" (at 109.22 170.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 106.68 172.72 0)
@@ -27803,7 +27803,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND15") (unit 1)
+          (reference "#GND015") (unit 1)
         )
       )
     )
@@ -27818,7 +27818,7 @@
     (property "Value" "NTCG103JF103FT1" (at 375.92 228.6 0)
       (effects (font (size 1.778 1.5113)))
     )
-    (property "Footprint" "32blit:0402@1" (at 373.38 228.6 0)
+    (property "Footprint" "Resistor_SMD:R_0402_1005Metric" (at 373.38 228.6 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 373.38 228.6 0)
@@ -27838,7 +27838,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 152.4 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 97907aec-3500-4601-8b73-5e249f95174f)
-    (property "Reference" "#GND35" (at 152.4 233.68 0)
+    (property "Reference" "#GND035" (at 152.4 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 149.86 236.22 0)
@@ -27854,7 +27854,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND35") (unit 1)
+          (reference "#GND035") (unit 1)
         )
       )
     )
@@ -27869,7 +27869,7 @@
     (property "Value" "10uF" (at 379.984 172.339 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0805" (at 378.46 167.64 0)
+    (property "Footprint" "Capacitor_SMD:C_0805_2012Metric" (at 378.46 167.64 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 378.46 167.64 0)
@@ -27889,7 +27889,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 274.32 233.68 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b72f08a-b8cf-496a-b967-34e57b69e23b)
-    (property "Reference" "#GND50" (at 274.32 233.68 0)
+    (property "Reference" "#GND050" (at 274.32 233.68 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 271.78 236.22 0)
@@ -27905,7 +27905,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND50") (unit 1)
+          (reference "#GND050") (unit 1)
         )
       )
     )
@@ -27914,7 +27914,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 345.44 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid 9b959f60-b110-45d0-8723-90ba7a0a66ff)
-    (property "Reference" "#GND52" (at 345.44 81.28 0)
+    (property "Reference" "#GND052" (at 345.44 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 342.9 83.82 0)
@@ -27930,7 +27930,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND52") (unit 1)
+          (reference "#GND052") (unit 1)
         )
       )
     )
@@ -27945,7 +27945,7 @@
     (property "Value" "1uF" (at 80.264 218.059 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0603" (at 78.74 213.36 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 78.74 213.36 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 78.74 213.36 0)
@@ -27995,7 +27995,7 @@
     (property "Value" "1k" (at 224.79 81.28 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 223.52 81.28 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 223.52 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 223.52 81.28 0)
@@ -28015,7 +28015,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 259.08 139.7 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid adc4c156-c8ee-4e0f-92f2-3454b8ab8357)
-    (property "Reference" "#GND25" (at 259.08 139.7 0)
+    (property "Reference" "#GND025" (at 259.08 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 256.54 142.24 0)
@@ -28031,7 +28031,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND25") (unit 1)
+          (reference "#GND025") (unit 1)
         )
       )
     )
@@ -28083,7 +28083,7 @@
     (property "Value" "47K" (at 133.35 241.3 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 132.08 241.3 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 132.08 241.3 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 132.08 241.3 0)
@@ -28103,7 +28103,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 373.38 81.28 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid c2f9c50a-2e8d-46d8-9f06-bd459e0a3ac9)
-    (property "Reference" "#GND6" (at 373.38 81.28 0)
+    (property "Reference" "#GND06" (at 373.38 81.28 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 370.84 83.82 0)
@@ -28119,7 +28119,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND6") (unit 1)
+          (reference "#GND06") (unit 1)
         )
       )
     )
@@ -28134,7 +28134,7 @@
     (property "Value" "1M" (at 359.41 139.7 0)
       (effects (font (size 1.778 1.5113)) (justify top))
     )
-    (property "Footprint" "32blit:R0603" (at 360.68 139.7 0)
+    (property "Footprint" "Resistor_SMD:R_0603_1608Metric" (at 360.68 139.7 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 360.68 139.7 0)
@@ -28160,7 +28160,7 @@
     (property "Value" "1uF" (at 374.904 75.819 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0603" (at 373.38 71.12 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 373.38 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 373.38 71.12 0)
@@ -28186,7 +28186,7 @@
     (property "Value" "100nF" (at 372.364 141.859 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0402K" (at 370.84 137.16 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 370.84 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 370.84 137.16 0)
@@ -28206,7 +28206,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 274.32 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid d72c6543-825b-4ff7-b47a-8a7ea1fce4a4)
-    (property "Reference" "#GND19" (at 274.32 177.8 0)
+    (property "Reference" "#GND019" (at 274.32 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 271.78 180.34 0)
@@ -28222,7 +28222,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND19") (unit 1)
+          (reference "#GND019") (unit 1)
         )
       )
     )
@@ -28237,7 +28237,7 @@
     (property "Value" "100nF" (at 123.444 73.279 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0402K" (at 121.92 68.58 0)
+    (property "Footprint" "Capacitor_SMD:C_0402_1005Metric" (at 121.92 68.58 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 121.92 68.58 0)
@@ -28263,7 +28263,7 @@
     (property "Value" "1uF" (at 339.344 75.819 0)
       (effects (font (size 1.778 1.5113)) (justify left bottom))
     )
-    (property "Footprint" "32blit:C0603" (at 337.82 71.12 0)
+    (property "Footprint" "Capacitor_SMD:C_0603_1608Metric" (at 337.82 71.12 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "" (at 337.82 71.12 0)
@@ -28309,7 +28309,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 78.74 223.52 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid e70bfb40-f782-42c6-b547-af5b2f10b37f)
-    (property "Reference" "#GND36" (at 78.74 223.52 0)
+    (property "Reference" "#GND036" (at 78.74 223.52 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 76.2 226.06 0)
@@ -28325,7 +28325,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND36") (unit 1)
+          (reference "#GND036") (unit 1)
         )
       )
     )
@@ -28334,7 +28334,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 307.34 137.16 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid f6c90776-53ee-4b17-aa1a-32844fc6f3af)
-    (property "Reference" "#GND51" (at 307.34 137.16 0)
+    (property "Reference" "#GND051" (at 307.34 137.16 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 304.8 139.7 0)
@@ -28350,7 +28350,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND51") (unit 1)
+          (reference "#GND051") (unit 1)
         )
       )
     )
@@ -28359,7 +28359,7 @@
   (symbol (lib_id "32blit-eagle-import:GND") (at 368.3 177.8 0) (unit 1)
     (in_bom yes) (on_board yes) (dnp no)
     (uuid fbce92d1-8eba-44ae-97e3-6d014a70deaa)
-    (property "Reference" "#GND41" (at 368.3 177.8 0)
+    (property "Reference" "#GND041" (at 368.3 177.8 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Value" "GND" (at 365.76 180.34 0)
@@ -28375,7 +28375,7 @@
     (instances
       (project "32blit"
         (path "/5e392b0a-93d8-4fe3-995e-b41db5e69183/7219dd04-59a8-484d-b130-3c1a1283275c"
-          (reference "#GND41") (unit 1)
+          (reference "#GND041") (unit 1)
         )
       )
     )
