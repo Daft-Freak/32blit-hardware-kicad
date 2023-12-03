@@ -9,6 +9,6 @@
       (effects (font (size 0.023368 0.023368) (thickness 0.002032)) (justify left bottom))
     (tstamp 96fcfa9e-d241-4c3a-b520-6575a73fb188)
   )
-  (pad "TP" smd roundrect (at 0 0) (size 1.7 1.7) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.02941176471)
+  (pad "1" smd roundrect (at 0 0) (size 1.7 1.7) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.02941176471)
     (solder_mask_margin 0.05) (solder_paste_margin -0.025) (thermal_bridge_angle 0) (tstamp 96d371f3-86b5-4a07-b3f2-e4f7713474b9))
 )
