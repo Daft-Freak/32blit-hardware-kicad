@@ -4,7 +4,7 @@
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp 8c14b84f-42e6-4dc8-b3f0-e73696ba0d32)
   )
-  (fp_text value "" (at 0 0) (layer "F.Fab")
+  (fp_text value "Val**" (at 0 0) (layer "F.Fab")
       (effects (font (size 1.27 1.27) (thickness 0.15)))
     (tstamp 0d2254d3-6576-4993-8371-2bfb26c85e2a)
   )
@@ -16,7 +16,7 @@
   (zone (net 0) (net_name "") (layer "F.Cu") (tstamp effbaaee-ab50-409b-947e-a1c1c7ac6d80) (hatch edge 0.5)
     (connect_pads (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
@@ -81,7 +81,7 @@
   (zone (net 0) (net_name "") (layer "B.Cu") (tstamp a1c89b7e-b11d-4365-abd2-afeaeaa2184d) (hatch edge 0.5)
     (connect_pads (clearance 0))
     (min_thickness 0.25) (filled_areas_thickness no)
-    (keepout (tracks not_allowed) (vias not_allowed) (pads not_allowed) (copperpour not_allowed) (footprints allowed))
+    (keepout (tracks not_allowed) (vias not_allowed) (pads allowed) (copperpour not_allowed) (footprints allowed))
     (fill (thermal_gap 0.5) (thermal_bridge_width 0.5))
     (polygon
       (pts
